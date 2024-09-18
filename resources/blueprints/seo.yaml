@@ -48,7 +48,7 @@ sections:
       - handle: alt_seo_sitemap
         field:
           width: 33
-          display: "Exclude this page from sitemap?"
+          display: "Exclude from sitemap?"
           type: toggle
           localizable: true
       - handle: alt_social_options
